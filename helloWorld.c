@@ -1,3 +1,4 @@
+//Author: A. D. Underwood
 #include<stdio.h>
 main()
 {     
